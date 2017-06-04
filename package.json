@@ -1,0 +1,27 @@
+{
+  "name": "exam-3-creativedigitalproject",
+  "version": "1.0.0",
+  "description": "Final Exam Project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ba-krm-front-one/veligura-exam-3-creativedigitalproject.git"
+  },
+  "author": "veligura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ba-krm-front-one/veligura-exam-3-creativedigitalproject/issues"
+  },
+  "homepage": "https://github.com/ba-krm-front-one/veligura-exam-3-creativedigitalproject#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.11",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglifyjs": "^0.6.2"
+  }
+}
